@@ -1,5 +1,7 @@
 ### Howdy 👋
-I'm Dunny - a Software Engineer building robust applications and automating data pipelines to deliver scalable, data-driven solutions.
+I'm Dunny - a Software Engineer building robust applications and automating data pipelines to deliver scalable, data-driven solutions. 
+<br/>
+<br/>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45%" />
 ---------------------------------------------------------
@@ -30,8 +32,6 @@ I'm Dunny - a Software Engineer building robust applications and automating data
 
 <br clear="right"/>
 --------------------------------------------------------
-
-# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=kib3tbrian&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kib3tbrian&theme=dark&hide_border=true)<br/>
