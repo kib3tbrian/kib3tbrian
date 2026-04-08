@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,16,24,27&height=180&section=header&text=Hey,%20I'm%20Dunny%20👋&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Founder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18)
 
-> Founder @ **Nogeybix Labs** where we architect and ship full products for clients and as side projects. Most repos are private but I'm happy to share live walkthroughs of these repos on request.
+> Founder @ **Nogeybix Labs** where we architect and ship full products for clients and as side projects. Most repos are private but I'm happy to share live walkthroughs of these repos on request. > 💼 Open to freelance, collabs & full-time roles. Let's build something cool.
 
 <br>
 
@@ -104,7 +104,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kib3tbrian&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
-
-> 💼 Open to freelance, collabs & full-time roles. Let's build something cool.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,16,24,27&height=100&section=footer)
