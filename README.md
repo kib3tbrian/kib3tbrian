@@ -8,11 +8,13 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45%" />
 </div>
 
+<br>
+
 ### 🛠️ Tech Stack
 
-<table width="100%">
+<table width="100%" border="1" cellpadding="10">
 <tr>
-<td valign="top" width="33%" border="1" cellpadding="10">
+<td valign="top" width="33%">
 
 **Languages**
 
@@ -21,6 +23,7 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -34,6 +37,17 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 </td>
 <td valign="top" width="33%">
 
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
 **Backend & APIs**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -42,8 +56,6 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="33%">
 
 **Databases & Storage**
@@ -67,7 +79,9 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td valign="top" width="33%" colspan="3">
 
 **Cloud & DevOps**
 
@@ -87,6 +101,7 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ### 🚧 What I'm Building
 
 > Founder @ **Nogeybix Labs** — I architect and ship full products for clients and as side projects. Most repos are private but I'm happy to share live walkthroughs of private repos on request.
+
 
 <br>
 
