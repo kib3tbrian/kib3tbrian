@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Dunny%20👋&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Automator&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Dunny%20👋&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Founder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18)
 
 I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stack applications, automating data pipelines, and shipping scalable, containerized solutions on AWS and GCP.
 
@@ -61,7 +61,7 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 
 ### 🚧 What I'm Building
 
-> Founder @ **Nogeybix Labs** — I architect and ship full products for clients and as side projects. Most repos are private but here's what I've cooked:
+> Founder @ **Nogeybix Labs** — I architect and ship full products for clients and as side projects. Most repos are private. > 🔓 Want to see the code? **[Reach out](mailto:its.kibetbrian@gmail.com)** — I'm happy to share live walkthroughs of private repos on request.:
 
 | 🔨 Project | 📝 Description | ⚙️ Stack |
 |---|---|---|
