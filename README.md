@@ -4,7 +4,13 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 
 <br>
 
-<table>
+<table width="100%">
+<tr><td colspan="2" align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60%" />
+
+</td></tr>
+<tr class="desktop-only">
 <tr>
 <td valign="middle" width="55%">
 
@@ -57,10 +63,7 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</td>
 <td valign="middle" width="45%" align="center">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="90%" />
 
 </td>
 </tr>
