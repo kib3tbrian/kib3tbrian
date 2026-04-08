@@ -23,7 +23,6 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -100,7 +99,7 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 
 ### 🚧 What I'm Building
 
-> Founder @ **Nogeybix Labs** — I architect and ship full products for clients and as side projects. Most repos are private but I'm happy to share live walkthroughs of private repos on request.
+> Founder @ **Nogeybix Labs** where we architect and ship full products for clients and as side projects. Most repos are private but I'm happy to share live walkthroughs of these repos on request.
 
 
 <br>
