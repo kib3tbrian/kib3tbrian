@@ -2,9 +2,11 @@
 
 I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stack applications, automating data pipelines, and shipping scalable, containerized solutions on AWS and GCP.
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45%" />
+<br>
 
----
+<table>
+<tr>
+<td valign="middle" width="55%">
 
 ### 🛠️ Tech Stack
 
@@ -55,13 +57,20 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="45%" align="center">
 
----
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="90%" />
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ### 🚧 What I'm Building
 
-> Founder @ **Nogeybix Labs** — I architect and ship full products for clients and as side projects. Most repos are private. > 🔓 Want to see the code? **[Reach out](mailto:its.kibetbrian@gmail.com)** — I'm happy to share live walkthroughs of private repos on request.:
+> Founder @ **Nogeybix Labs** — I architect and ship full products for clients and as side projects. Most repos are private. 🔓 Want to see the code? **[Reach out](mailto:its.kibetbrian@gmail.com)** — I'm happy to share live walkthroughs of private repos on request.
 
 | 🔨 Project | 📝 Description | ⚙️ Stack |
 |---|---|---|
@@ -72,7 +81,7 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 | **Data Pipelines** | Automated ETL pipelines with clean reporting layers | Apache Spark, Pandas, dbt, Supabase |
 | **CI/CD Infrastructure** | Containerized deployment workflows for client projects | Docker, GitHub Actions, AWS |
 
----
+<br>
 
 ### 📊 GitHub Stats
 
@@ -80,7 +89,7 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kib3tbrian&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kib3tbrian&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
+<br>
 
 > 💼 Open to freelance, collabs & full-time roles. Let's build something cool.
 
