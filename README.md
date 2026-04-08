@@ -4,15 +4,9 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 
 <br>
 
-<table width="100%">
-<tr><td colspan="2" align="center">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60%" />
-
-</td></tr>
-<tr class="desktop-only">
-<tr>
-<td valign="middle" width="55%">
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45%" />
+</div>
 
 ### 🛠️ Tech Stack
 
@@ -62,12 +56,6 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-<td valign="middle" width="45%" align="center">
-
-</td>
-</tr>
-</table>
 
 <br>
 
