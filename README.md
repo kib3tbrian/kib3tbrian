@@ -1,13 +1,18 @@
-### Howdy 👋
-I'm Dunny - a Software Engineer building robust applications and automating data pipelines to deliver scalable, data-driven solutions. 
-<br/>
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Dunny%20👋&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Automator&descAlignY=58&descSize=18)
+
+I'm Dunny - a Software Engineer building robust applications and automating data pipelines to deliver scalable, data-driven solutions.
+
+```python
+dunny = {
+    "status":    "Building in public 🚀 | Open to opportunities 👀",
+    "focus":     ["Full-Stack Apps", "Data Pipelines", "Automation"],
+    "currently": "Shipping side projects & leveling up daily",
+}
+```
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45%" />
---------------------------------------------------
 
-
-
+---
 
 ### 🛠️ Tech Stack
 
@@ -30,8 +35,33 @@ I'm Dunny - a Software Engineer building robust applications and automating data
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br clear="right"/>
---------------------------------------------------
 
-![](https://github-readme-stats.vercel.app/api?username=kib3tbrian&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kib3tbrian&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kib3tbrian&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 🚧 What I'm Building
+
+> Mostly in private repos — but here's what I'm cooking:
+
+- 🔧 Scalable APIs with FastAPI & Node.js
+- 📱 Mobile apps with React Native & Expo
+- 🤖 Automation that does the boring stuff for me
+- 📦 Data pipelines turning raw chaos into clean insights
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kib3brian&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kib3brian&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kib3brian&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+### 💬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kib3brian)
+
+> 💼 Open to freelance, collabs & full-time roles. Let's build something cool.
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
