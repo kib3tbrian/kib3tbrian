@@ -10,6 +10,10 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 
 ### 🛠️ Tech Stack
 
+<table width="100%">
+<tr>
+<td valign="top" width="33%">
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +27,9 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 **Backend & APIs**
 
@@ -38,6 +45,9 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
 
 **AI & Data**
 
@@ -57,20 +67,15 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 <br>
 
 ### 🚧 What I'm Building
 
-> Founder @ **Nogeybix Labs** — I architect and ship full products for clients and as side projects. Most repos are private. 🔓 Want to see the code? **[Reach out](mailto:its.kibetbrian@gmail.com)** — I'm happy to share live walkthroughs of private repos on request.
-
-| 🔨 Project | 📝 Description | ⚙️ Stack |
-|---|---|---|
-| **Qoppy** | A mobile app built with Expo & React Native | React Native, Expo, Supabase, FastAPI |
-| **Client Portal** | Disbursement workflows + automated reporting for Numida Africa | NestJS, PostgreSQL, Prisma, Docker |
-| **Booking System** | Full booking & CMS integration for GPS Travel | Next.js, Tailwind, FastAPI |
-| **Health Platform** | Internal tooling & data pipeline for Penda Health | Python, dbt, Power BI, PostgreSQL |
-| **Data Pipelines** | Automated ETL pipelines with clean reporting layers | Apache Spark, Pandas, dbt, Supabase |
-| **CI/CD Infrastructure** | Containerized deployment workflows for client projects | Docker, GitHub Actions, AWS |
+> Founder @ **Nogeybix Labs** — I architect and ship full products for clients and as side projects. Most repos are private but I'm happy to share live walkthroughs of private repos on request.
 
 <br>
 
