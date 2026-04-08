@@ -12,7 +12,7 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 
 <table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="33%" border="1" cellpadding="10">
 
 **Languages**
 
@@ -21,6 +21,9 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 **Frontend**
 
@@ -37,6 +40,11 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
 **Databases & Storage**
 
@@ -57,6 +65,9 @@ I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stac
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 **Cloud & DevOps**
 
