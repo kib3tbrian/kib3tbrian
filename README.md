@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,16,24,27&height=180&section=header&text=Hey,%20I'm%20Dunny%20👋&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Founder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18)
 
-I'm Kibet Brian (Dunny) — a Software Engineer with 3+ years building full-stack applications, automating data pipelines, and shipping scalable, containerized solutions on AWS and GCP.
-
 <br>
 
 <div align="center">
