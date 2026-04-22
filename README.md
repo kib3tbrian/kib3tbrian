@@ -10,22 +10,8 @@
 
 <br>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="38%" />
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
 
-### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=9999&pause=9999&color=ffffff&vCenter=true&width=130&height=28&lines=👤+About+Me" alt="About Me"/>
-
-```
-role     → Software Engineer & ML Engineer
-company  → Founder @ Nogeybix Labs
-location → Nairobi, Kenya 🇰🇪
-shipped  → 40+ products for 20+ brands
-clients  → Penda Health · Numida · BuildAfrique · xGscore
-stack    → Next.js · NestJS · FastAPI · PyTorch · AWS
-open to  → Freelance · Collabs · Full-time remote
-contact  → hello@kibetbrian.codes
-```
-
-> Most repos are private — happy to do **live walkthroughs on request**
 
 <br clear="right"/>
 
