@@ -14,8 +14,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,php,mysql,bash" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-  <img src="https://img.shields.io/badge/Better--Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,re,expo" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,prisma,postgres,mongodb,supabase,redis,firebase" />
   <br><br>
