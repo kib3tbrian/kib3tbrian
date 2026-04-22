@@ -12,27 +12,6 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="38%" />
 
-### 👤 About Me
-
-```typescript
-const kibet = {
-  role:      "Software Engineer & ML Engineer",
-  company:   "Founder @ Nogeybix Labs",
-  location:  "Nairobi, Kenya 🇰🇪",
-  shipped:   "40+ products for 20+ brands",
-  clients:   ["Penda Health", "Numida Africa",
-              "BuildAfrique", "xGscore.io"],
-  stack:     ["Next.js", "NestJS", "FastAPI",
-              "PyTorch", "AWS", "Docker"],
-  available: true,
-  contact:   "hello@kibetbrian.codes",
-};
-```
-
-- 🚀 Most repos are private — happy to do **live walkthroughs on request**
-- 🤝 Open to **freelance**, **collabs** & **full-time remote roles**
-- 🌍 Building for Africa — and the world
-
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -113,26 +92,6 @@ const kibet = {
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-### 🚀 Featured Work
-
-> A selection of production products shipped under **[Nogeybix Labs](https://nogeybix.com)**
-
-| &nbsp; | Project | What I built | Live |
-|---|---|---|---|
-| 🏥 | **Penda Health** | Claims processing pipeline & internal ops tooling for Kenya's leading clinic chain | [↗](https://pendahealth.com) |
-| 💰 | **Numida Africa** | SME lending portal, secure APIs & role-based access for financial data workflows | [↗](https://play.google.com/store/apps/details?id=com.numidatech.numida) |
-| 🏗️ | **BuildAfrique** | Premium construction & real estate platform with mobile-first design | [↗](https://buildafrique.com) |
-| ✈️ | **GPS Travel** | Bespoke African travel platform with booking, safari & itinerary flows | [↗](https://gpstravel.co.ke) |
-| ⚽ | **xGscore.io** | Real-time football analytics dashboards with live xG data visualization | [↗](https://xgscore.io) |
-| 🏥 | **Ultimate MedLink** | Medical tourism platform connecting Pan-African patients to global hospitals | [↗](https://uml.co.ke) |
-| 🆘 | **Destress App** | Emergency contact mobile app with debounced UX and production-ready delivery | — |
-| 🏛️ | **Joshua Center Intl** | Faith community platform — digital presence for a global church network | [↗](https://joshuacenterintl.org) |
-
-> 🔒 Source code available on request — [book a walkthrough](mailto:hello@kibetbrian.codes)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
@@ -147,17 +106,6 @@ const kibet = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
-### ✍️ Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br>
 
 ### 🌐 Let's Connect
 
