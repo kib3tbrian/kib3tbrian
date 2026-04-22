@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,16,24,27&height=180&section=header&text=👋%20I'm%20Kibet%20Brian&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20%Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,16,24,27&height=180&section=header&text=👋%20I'm%20Kibet%20Brian&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18)
 
 > Most repos are private but I'm happy to share live walkthroughs of these repos on request. Open to freelance, collabs & full-time roles. Let's bring your ideas to life!
 
@@ -98,10 +98,6 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kib3tbrian&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kib3tbrian&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kib3tbrian&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
+![](https://github-readme-stats.vercel.app/api?username=kib3tbrian&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,16,24,27&height=100&section=footer)
