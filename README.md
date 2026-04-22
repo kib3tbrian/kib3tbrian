@@ -8,10 +8,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-### 🛠️ Tech Stack
-
 <div align="center">
+
+  ### Tech Stack
+
+  
   <img src="https://skillicons.dev/icons?i=python,ts,php,mysql,bash" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
@@ -29,7 +30,7 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=kib3tbrian&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=1A6EFF&title_color=1A6EFF&bg_color=0d1117)
 
