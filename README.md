@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,16,24,27&height=200&section=header&text=Howdy,%20I'm%20Kibet%20Brian&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20ML%20Engineer&descAlignY=58&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,16,24,27&height=200&section=header&text=👋%20I'm%20Kibet%20Brian&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=45)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=1A6EFF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+scalable+products+from+concept+to+deployment.;40%2B+products+shipped+%7C+20%2B+brands+served+%7C+3%2B+years)](https://kibetbrian.codes)
 
