@@ -8,15 +8,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="38%" />
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
 
 ### 🛠️ Tech Stack
 
@@ -93,10 +84,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/-1A6EFF?style=for-the-badge&logo=safari&logoColor=white)](https://kibetbrian.codes)
-[![Agency](https://img.shields.io/badge/-E8A020?style=for-the-badge&logo=rocket&logoColor=white)](https://nogeybix.com)
 [![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kibetbrian.codes)
 [![Discord](https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/945739329517522974)
-[![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uyscvtii)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kib3tbrian&color=1A6EFF&label=Profile+Views&style=flat-square)
 
