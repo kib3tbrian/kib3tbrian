@@ -37,23 +37,3 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🌐 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/-1A6EFF?style=for-the-badge&logo=safari&logoColor=white)](https://kibetbrian.codes)
-[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kibetbrian.codes)
-[![Discord](https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/945739329517522974)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=kib3tbrian&color=1A6EFF&label=Profile+Views&style=flat-square)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,16,24,27&height=120&section=footer)
-
-</div>
