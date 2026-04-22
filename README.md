@@ -11,15 +11,16 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,php,mysql,bash,react,nextjs,tailwind,nestjs,fastapi,nodejs,prisma,postgres,mongodb,supabase,redis,firebase,pytorch,tensorflow,aws,docker,githubactions,vercel,linux,git" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Better--Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Better-Auth">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,php,mysql,bash" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://img.shields.io/badge/Better--Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" height="50" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,prisma,postgres,mongodb,supabase,redis,firebase" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,githubactions,vercel,linux,git" />
+</div>
 
 </div>
   
