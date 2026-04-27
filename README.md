@@ -32,7 +32,7 @@
 
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kib3tbrian&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=1A6EFF&title_color=1A6EFF&bg_color=0d1117)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kib3tbrian&theme=dark&hide_border=true&show_icons=true&icon_color=1A6EFF&title_color=1A6EFF&bg_color=0d1117)](https://github.com/kib3tbrian)
 
 </div>
 
